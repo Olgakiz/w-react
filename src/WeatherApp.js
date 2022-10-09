@@ -65,6 +65,7 @@ export default function Weather(props) {
               </h2>
             </div>
           </div>
+          <a href="https://github.com/Olgakiz/w-react">Open-source code</a>, by Olga
         </div>
       </div>
     </body>
